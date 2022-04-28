@@ -1,0 +1,7 @@
+#card-title{
+    border-bottom: 1.5px solid rgba(0,0,0,.125);
+}
+.custom-select{
+    width: 60px;
+    border-radius: 1rem;
+}
