@@ -1,5 +1,5 @@
 # PingPong
-A simple a that uses JavaScript DOM-manipulation to keep score of a PingPong Game.
+A simple app a that uses JavaScript DOM-manipulation to keep score of a PingPong Game.
 
 ## How It Works
 User can set max Score. First to reach max Score wins. 
